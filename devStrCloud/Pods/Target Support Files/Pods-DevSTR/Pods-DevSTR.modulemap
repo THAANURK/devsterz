@@ -1,0 +1,6 @@
+framework module Pods_DevSTR {
+  umbrella header "Pods-DevSTR-umbrella.h"
+
+  export *
+  module * { export * }
+}
